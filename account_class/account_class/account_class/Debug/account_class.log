@@ -1,0 +1,9 @@
+﻿  account_class.cpp
+C:\Users\ahmet\OneDrive\Masaüstü\c++\account_class\account_class\account_class\Account.h(29,10): warning C4244: 'return': 'const float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ahmet\OneDrive\Masaüstü\c++\account_class\account_class\account_class\Account.h(43,63): error C2572: 'Account::Account': varsayılan parametrenin yeniden tanımlanması: parametre 1
+C:\Users\ahmet\OneDrive\Masaüstü\c++\account_class\account_class\account_class\Account.h(15): message : 'Account::Account' bildirimine bakın
+C:\Users\ahmet\OneDrive\Masaüstü\c++\account_class\account_class\account_class\Account.h(43,87): error C2572: 'Account::Account': varsayılan parametrenin yeniden tanımlanması: parametre 2
+C:\Users\ahmet\OneDrive\Masaüstü\c++\account_class\account_class\account_class\Account.h(15): message : 'Account::Account' bildirimine bakın
+C:\Users\ahmet\OneDrive\Masaüstü\c++\account_class\account_class\account_class\Account.h(164,9): error C2065: 'amount': bildirimi yapılmamış tanımlayıcı
+C:\Users\ahmet\OneDrive\Masaüstü\c++\account_class\account_class\account_class\Account.h(164,24): error C2065: 'amount': bildirimi yapılmamış tanımlayıcı
+C:\Users\ahmet\OneDrive\Masaüstü\c++\account_class\account_class\account_class\Account.h(166,10): error C2065: 'amount': bildirimi yapılmamış tanımlayıcı
